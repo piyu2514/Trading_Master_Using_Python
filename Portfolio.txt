@@ -1,0 +1,7 @@
+Symbol,Quantity,Price
+Bitcoin,500,8400.567
+Neo,1000,10.456
+BitShares,5000,0.035
+Jetcoin,500,0.00724
+ShineChain,25,0.0004567
+ROAD,800,0.02234
